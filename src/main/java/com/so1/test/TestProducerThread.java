@@ -23,7 +23,7 @@ public class TestProducerThread extends Thread {
             
             String message = " {"
                     + " \"id\":" + "1" + ","
-                    + " \"nombre\":\"" + "manuel" + "\","
+                    + " \"nombre\":\"" + "Mike" + "\","
                     + " \"edad\":" + "2" 
                     + "}";
             try {
